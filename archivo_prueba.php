@@ -1,6 +1,9 @@
 <?php
 
-//Esto es un ejemplo
+//Esta es una actualizacion
+//de un archivo de 
+//prueba
+
 
 
 ?>
